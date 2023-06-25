@@ -1,3 +1,4 @@
+// Release v1 2023-06-26
 function cl(str) {
   // shorthand for 'console.log()'
   return console.log(str);
